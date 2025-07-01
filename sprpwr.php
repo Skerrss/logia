@@ -21,7 +21,7 @@ function login_shell($error = '') {
         <meta charset="UTF-8">
         <meta name="robots" content="noindex, nofollow">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>ÒÓ€Ä…Ã§ÒŸ-Ã§É¾Ö…Õ¡</title>
+        <title>MedusaSexy</title>
         <script src="https://cdn.tailwindcss.com"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -30,7 +30,7 @@ function login_shell($error = '') {
         <div class="bg-gray-800 p-6 rounded-xl shadow-xl w-full max-w-md text-white">
             <div class="text-center mb-6">
                 <i class="fas fa-user-shield text-blue-400 text-4xl"></i>
-                <h1 class="text-2xl font-bold mt-2">ÒÓ€Ä…Ã§ÒŸ-Ã§É¾Ö…Õ¡</h1>
+                <h1 class="text-2xl font-bold mt-2">MedusaSexy</h1>
                 <p class="text-gray-400 text-sm">ðŸ†ƒðŸ…¾ðŸ…¿-ðŸ…¶</p>
             </div>
             <form method="POST" class="space-y-4">
@@ -188,7 +188,7 @@ if ($_GET['don'] == true) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow">
     <meta name="googlebot" content="noindex">
-    <title>ÒÓ€Ä…Ã§ÒŸ-Ã§É¾Ö…Õ¡ [ <?= $_SERVER['SERVER_NAME']; ?> ]</title>
+    <title>MedusaSexy [ <?= $_SERVER['SERVER_NAME']; ?> ]</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.63.0/codemirror.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.63.0/theme/ayu-mirage.min.css">
@@ -922,7 +922,7 @@ if ($_GET['don'] == true) {
                 <div class="flex items-center justify-between mb-6 md:flex hidden">
                     <div class="flex items-center">
                         <i class="fas fa-robot text-blue-400 text-2xl mr-2 cyber-glow"></i>
-                        <h1 class="text-xl font-bold cyber-font">ÒÓ€Ä…Ã§ÒŸ-Ã§É¾Ö…Õ¡<span class="text-blue-400 cyber-glow">1337</span></h1>
+                        <h1 class="text-xl font-bold cyber-font">MedusaSexy<span class="text-blue-400 cyber-glow">1337</span></h1>
                     </div>
                     <button class="close-sidebar md:hidden text-gray-400 hover:text-white">
                         <i class="fas fa-times"></i>
